@@ -1,2 +1,2 @@
-# wet6123.github.io
-Momentum_clone_page
+# Momentum_clone
+Momentum clone coding project (with nomadcoder)
